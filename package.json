@@ -17,6 +17,20 @@
   },
   "dependencies": {
     "axios": "^1.4.0",
+    "swiper": "^9.3.2",
     "unplugin-vue-components": "^0.24.1"
-  }
+  },
+  "description": "Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.",
+  "version": "1.0.0",
+  "main": "nuxt.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucphung123/FElast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucphung123/FElast/issues"
+  },
+  "homepage": "https://github.com/lucphung123/FElast#readme"
 }
