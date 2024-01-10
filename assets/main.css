@@ -1,0 +1,33 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background-color: #ffffff;
+  background-size: cover;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+
+svg {
+  vertical-align: baseline;
+}
+
+body {
+  /* font-family: "Roboto", cursive; */
+  font-family: "Inter Tight", sans-serif;
+}
+
+
+
+.card {
+  @apply bg-white cursor-pointer rounded-md duration-300 shadow hover:(shadow-xl);
+}
+
+.hover1 {
+  @apply hover:(scale-102 shadow-xl duration-500) duration-300;
+}
+.topic {
+  @apply flex justify-between items-center w-30% shadow-[2px_2px_8px_rgba(0,67,144,0.1)] bg-[white] font-medium text-3xl pl-30px pr-1.5 py-18px rounded-10px border-l-8 cursor-pointer;
+}
+.bg-help {
+  @apply bg-[rgba(227,239,249,0.5)];
+}
