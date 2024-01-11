@@ -1,14 +1,14 @@
 <template>
   <div class="w-full flex flex-col justify-center items-center">
-    <div class="w-full flex gap-5">
-      <div class="w-1/3">
+    <div class="w-full flex gap-20">
+      <div class="w-1/2">
         <p class="font-bold text-black text-6">Về chúng tôi</p>
         <p class="text-black text-4">Edubook là cửa hàng luôn cung cấp cho các bạn tìm tòi tri thức, đam mê đọc sách trên khắp cả nước.Chúng tôi sẽ liên tục cập nhật những cuốn sách hay nhất, mới nhất, chất lượng nhất giúp người đọc có những cuốn sách hay nhất để đọc!</p>
         <p class="text-black text-4 mt-3">Điện thoại: 0987 654 321</p>
         <p class="text-black text-4">Email: Nhom1@gmail.com</p>
         <p class="text-black text-4">Địa chỉ: 321 Cầu Giấy - Hà Nội</p>
       </div>
-      <div class="w-1/3">
+      <div class="w-1/4">
         <p class="font-bold text-black text-6">Chính sách mua hàng</p>
         <p class="text-black text-4 mt-3">Hình thức đặt hàng</p>
         <p class="text-black text-4 mt-3">Hình thức thanh toán</p>
@@ -16,7 +16,7 @@
         <p class="text-black text-4 mt-3">Chính sách đổi trả</p>
         <p class="text-black text-4 mt-3">Hướng dẫn sử dụng</p>
       </div>
-      <div class="w-1/3">
+      <div class="w-1/4 ">
         <p class="font-bold text-black text-6">Hotline liên hệ</p>
         <div class="flex items-center gap-4">
           <img src="/phone_top.png" alt="">
